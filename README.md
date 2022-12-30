@@ -6,9 +6,9 @@ mostra as séries adicionadas, e  uma para criar as séries.
 
 # Telas 
 
-![Página de exibição](./storage/app/public/Captura%20de%20tela%20de%202022-12-27%2017-05-29.png)
+![Página de exibição](./storage/img/Captura%20de%20tela%20de%202022-12-27%2017-05-29.png)
 
-![Página de exibição](./storage/app/public/Captura%20de%20tela%20de%202022-12-27%2017-07-38.png)
+![Página de exibição](./storage/img/Captura%20de%20tela%20de%202022-12-27%2017-07-38.png)
 
 # Como rodar? 
 
