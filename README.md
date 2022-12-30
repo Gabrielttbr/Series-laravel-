@@ -1,8 +1,8 @@
 # CRUD LARAVEL 
 
 Olá, esse foi o meu primeiro projeto trabalhando com esse incrível Framework Full-Stack.
-Basicamente ele consiste em uma pequeno CRUDO de serie, onde possui duas telas, uma que 
-mostra as séries adicionadas, e  uma para criar a série.
+Basicamente ele consiste em uma pequeno CRUD de series, onde possui duas telas, uma que 
+mostra as séries adicionadas, e  uma para criar as séries.
 
 # Telas 
 
